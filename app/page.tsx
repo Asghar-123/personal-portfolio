@@ -13,7 +13,7 @@ export default function Home() {
     <Image src={mineimage} alt="mineimage" className=" w-[350px] h-[400px]"></Image>
     <div className="text-center lg:w-2/3 w-full">
       <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
-       I'm <span className="text-orange-900"> Asghar Ali</span>
+       I am <span className="text-orange-900"> Asghar Ali</span>
       </h1>
       <p className="mb-8 leading-relaxed">
         I am a Front End Developer as a Advanced Beginner
